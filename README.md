@@ -32,7 +32,7 @@ RapidFuzz](https://github.com/maxbachmann/RapidFuzz?fbclid=IwAR0HffzFqj1WiUuXYIT
 
 # Performance
 
-VinAI Dataset
+[VinAI Dataset](https://github.com/VinAIResearch/dict-guided#dataset)
 
 | Detection | Recognition | Time with CPU |
 | :-- | :-: | :-: |
